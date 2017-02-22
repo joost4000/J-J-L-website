@@ -1,3 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
+.coverBGIMG {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#backgroundIMG {
+    position: relative;
+    bottom: 110px;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
